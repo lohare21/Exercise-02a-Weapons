@@ -12,4 +12,5 @@ position = Vector2( 512, 300 )
 script = ExtResource( 2 )
 
 [node name="Sprite" type="Sprite" parent="Player"]
+position = Vector2( 0.889282, 40.0179 )
 texture = ExtResource( 1 )
